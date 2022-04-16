@@ -1,3 +1,16 @@
+Note: installing the Cisco Packettracer in Garuda Linux:
+	Followed this link from Manjaro forum https://forum.manjaro.org/t/how-to-get-cisco-packet-tracer-on-manjaro/25506/5
+	Summary steps:
+	yay -G packettracer
+	cd packettracer
+	# Download the latest .deb file into this folder as of this writing (April 16/22)
+	# Cisco_Packet_Tracer_811_Ubuntu_64bit_cf200f5851.deb
+	# But very important: ensure this filename is *THE SAME* as listed in the PKGBUILD file otherwise the makepkg command will fail
+	# This is what I did in this OS box
+	# Run the makepkg command and follow the prompt
+	makepkg #or makepkg -i
+	sudo pacman -U the_correct_file_name_generated.pkg.tar.xz
+	# now the binary file is compiled and tested to run as executable, DONE!!!
 Section 2 How to Set up the Lab
 	✔ How to Set up the Lab @done(22-04-14 22:35)
 	✔ Cisco Packet Tracer Installation @done(22-04-14 22:35)
