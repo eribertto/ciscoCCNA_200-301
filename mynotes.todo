@@ -3,7 +3,8 @@ Note: installing the Cisco Packettracer in Garuda Linux:
 	Summary steps:
 	yay -G packettracer
 	cd packettracer
-	# Download the latest .deb file into this folder as of this writing (April 16/22)
+	# Download the latest .deb file from the below website and copy to this folder as of this writing (April 16/22)
+	# https://skillsforall.com/resources/lab-downloads
 	# Cisco_Packet_Tracer_811_Ubuntu_64bit_cf200f5851.deb
 	# But very important: ensure this filename is *THE SAME* as listed in the PKGBUILD file otherwise the makepkg command will fail
 	# This is what I did in this OS box
