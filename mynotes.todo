@@ -2,10 +2,14 @@ Begin Section 3 Host to Host Communications
 	✔ Introduction @done(22-04-19 16:31)
 	✔ Basic Introduction to Networking @done(22-04-19 16:31)
 		✔ Downloaded the lecture reference pdf @done(22-04-19 16:31)
-	The OSI Reference Model overview
-	TCP/IP stack
-	The Upper OSI Layers
-	The Lower OSI Layers
+	✔ The OSI Reference Model overview @done(22-04-19 18:23)
+		✔ Downloaded the lecture ref. guide pdf @done(22-04-19 18:23)
+	✔ TCP/IP stack @done(22-04-19 18:23)
+		✔ Downloaded the lecture ref. guide pdf @done(22-04-19 18:23)
+	✔ The Upper OSI Layers @done(22-04-19 18:23)
+		✔ Downloaded the lecture ref. guide pdf @done(22-04-19 18:23)
+	✔ The Lower OSI Layers @done(22-04-19 18:23)
+		✔ Downloaded the lecture ref. guide pdf @done(22-04-19 18:23)
 
 Begin beginner course in skillsforall website:
 	✔ Getting Started with Cisco Packet Tracer: @done(22-04-16 23:29)
