@@ -1,9 +1,9 @@
 Begin Section 4 Cisco IOS Operating System
-	Introduction
-	Cisco Operating System
-		Get pdf resources
-	Connecting to a Cisco Device over the network
-		Get pdf resources
+	✔ Introduction @done(22-04-20 19:49)
+	✔ Cisco Operating System @done(22-04-20 19:49)
+		✔ Get pdf resources @done(22-04-20 19:49)
+	✔ Connecting to a Cisco Device over the network @done(22-04-20 19:49)
+		✔ Get pdf resources @done(22-04-20 19:49)
 	Making the Initial Connection to a Cisco Device
 		Get pdf resources
 	Navigating the Cisco IOS operating system part 1
@@ -29,7 +29,7 @@ Begin Section 3 Host to Host Communications
 Begin beginner course in skillsforall website:
 	✔ Getting Started with Cisco Packet Tracer: @done(22-04-16 23:29)
 	✔ Download and Use Cisco Packet Tracer @done(22-04-16 23:29)
-	☐ Create a Cisco Packet Tracer Network
+	✔ Create a Cisco Packet Tracer Network @done(22-04-20 20:00)
 
 
 Note: installing the Cisco Packettracer in Garuda Linux:
